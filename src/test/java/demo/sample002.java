@@ -22,6 +22,13 @@ public class sample002
 	}
 	
 	
+
+	@Test
+	public void TC5()
+	{
+		Reporter.log("test edited");
+	}
+	
 	
 	
 	
